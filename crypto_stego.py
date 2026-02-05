@@ -1,4 +1,3 @@
-
 import os
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import pad, unpad
@@ -119,3 +118,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
